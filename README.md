@@ -1,1 +1,1 @@
-frontend url: https://gitee.com/captainslow/vuestudy
+frontend url: https://github.com/captain-fat/vuestudy-master
